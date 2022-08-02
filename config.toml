@@ -1,0 +1,4 @@
+theme = "archie"
+baseURL = 'https://blog.dcdcnation.com/'
+languageCode = 'en-us'
+title = 'DCDC Blog'
