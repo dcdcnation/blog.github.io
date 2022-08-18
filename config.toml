@@ -1,4 +1,4 @@
 theme = "archie"
-baseURL = 'http://blog.dcdcnation.com/'
+baseURL = 'https://blog.dcdcnation.com/'
 languageCode = 'en-us'
 title = 'DCDC Blog'
